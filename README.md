@@ -6,7 +6,7 @@ Este repositorio documenta mi proceso de aprendizaje de Python, completando 12 p
 
 ### Nivel 1: Los Fundamentos (Sintaxis y Lógica)
 - [x]  **01. Calculadora de Propinas:** Cálculo simple con entradas de usuario.
-- [ ] **02. Adivina el Número:** Uso de `random` y bucles `while`.
+- [x] **02. Adivina el Número:** Uso de `random` y bucles `while`.
 - [ ] **03. Piedra, Papel o Tijera:** Lógica condicional y listas básicas.
 
 ### Nivel 2: Estructuras de Datos
