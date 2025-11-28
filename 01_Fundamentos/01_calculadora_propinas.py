@@ -23,4 +23,5 @@ def calculadora_propinas ():
 
     except ValueError:
         print("❌ Error: Ingresa valores validos ")
+
 calculadora_propinas()
