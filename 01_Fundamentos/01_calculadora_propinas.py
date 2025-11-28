@@ -16,7 +16,7 @@ def calculadora_propinas ():
         print("---Datos de la Cuenta---")
         print("-"*30)
         print(f"Subtotal:${cuenta:,.2f}")
-        print(f"Propina:${propina_pct:,.2f}")
+        print(f"Propina:${propina:,.2f}")
         print(f"Total:${total:,.2f}")
         print("-"*30)
         print(f"Cada uno paga:{pago_persona:,.2f}")
