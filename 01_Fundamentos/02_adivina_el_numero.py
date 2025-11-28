@@ -18,7 +18,7 @@ while num_usuario != num_secreto:
         num_usuario = pedir_num()
     except ValueError:
         print("Error: Ingrese un numero entero")
-        pedir_num
+        continue
     
     if num_usuario > num_secreto:
         print("Mas bajo...")
