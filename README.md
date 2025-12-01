@@ -14,7 +14,7 @@ Este repositorio documenta mi proceso de aprendizaje de Python, completando 12 p
 ### 🔹 [Nivel 2: Estructuras de Datos](level-02-data-structures/)
 *Listas avanzadas, diccionarios y manipulación de strings.*
 
-- [ ] **04. Generador de Contraseñas:** Manipulación de strings y seguridad básica.
+- [x] **04. Generador de Contraseñas:** Manipulación de strings y seguridad básica.
 - [ ] **05. El Ahorcado (Hangman):** Algoritmos de búsqueda.
 - [ ] **06. Cifrado César:** Criptografía básica y código ASCII.
 
