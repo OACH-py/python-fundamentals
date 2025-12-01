@@ -8,6 +8,4 @@ palabras = [
 
 intentos = 3
 palabra_secreta = random.choice(palabras)
-
-for i in palabra_secreta:
-    length 
+length = len(palabra_secreta)
