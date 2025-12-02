@@ -15,7 +15,7 @@ Este repositorio documenta mi proceso de aprendizaje de Python, completando 12 p
 *Listas avanzadas, diccionarios y manipulación de strings.*
 
 - [x] **04. Generador de Contraseñas:** Manipulación de strings y seguridad básica.
-- [ ] **05. El Ahorcado (Hangman):** Algoritmos de búsqueda.
+- [x] **05. El Ahorcado (Hangman):** Algoritmos de búsqueda.
 - [ ] **06. Cifrado César:** Criptografía básica y código ASCII.
 
 ### 🔹 [Nivel 3: Persistencia y POO](level-03-persistence-oop/)
